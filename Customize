@@ -1,0 +1,2 @@
+ruby -e 'puts Encoding::list.join("\n")'
+
