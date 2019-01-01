@@ -1,0 +1,10 @@
+FunctionApp
+ | - host.json
+ | - Myfirstfunction
+ | | - function.json
+ | | - ...  
+ | - mysecondfunction
+ | | - function.json
+ | | - ...  
+ | - SharedCode
+ | - bin
