@@ -1,0 +1,2 @@
+git fetch ssh://localhost:29418/project refs/meta/config
+  git checkout FETCH_HEAD
