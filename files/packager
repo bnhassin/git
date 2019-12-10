@@ -1,0 +1,4 @@
+// Create a folder
+$ mkdir actions-runner && cd actions-runner// Download the latest runner package
+$ curl -O https://githubassets.azureedge.net/runners/2.162.0/actions-runner-linux-arm-2.162.0.tar.gz// Extract the installer
+$ tar xzf ./actions-runner-linux-arm-2.162.0.tar.gz
