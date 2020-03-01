@@ -1,0 +1,2 @@
+git commit -a -m "Notify team-bnhassin@gmail.com of changes"
+  git push ssh://localhost:29418/project HEAD:refs/meta/config
