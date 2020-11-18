@@ -1,0 +1,1 @@
+git config --global http.Cookiefile "%UserPROFILe%\.gitcookies" powershell -noprofile -nologo -command Write-Output "gerrit.googlesource.com'tFALSE't/'tTRUE't2147483647'to'tgit-bnhassin
