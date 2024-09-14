@@ -1,1 +1,0 @@
-git clone https://gerrit.googlesource.com/gerrit-ci-scripts && (cd gerrit-ci-scripts && f=`git rev-parse --git-dir`/hooks/commit-msg ; mkdir -p $(dirname $f) ; curl -Lo $f https://gerrit-review.googlesource.com/tools/hooks/commit-msg ; chmod +x $f)

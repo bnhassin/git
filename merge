@@ -1,3 +1,0 @@
-git checkout contribute
-git merge --no-ff bnhassin-patch-1
-git push origin contribute
